@@ -1,0 +1,10 @@
+.result-card {
+    width:500px;
+    padding: 20px;
+}
+
+.result-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
